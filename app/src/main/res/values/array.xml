@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="priority_array">
+        <item></item>
+        <item>1: 後で時間があったらやる</item>
+        <item>2: 後回しにはしない</item>
+        <item>3: 手が空いたら次にやる</item>
+        <item>4: 最優先でやる</item>
+        <item>5: とにかく今すぐにやる</item>
+    </string-array>
+</resources>
